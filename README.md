@@ -9,9 +9,9 @@
 
 - 🎓 I’m currently a B.Tech student at IIT Delhi
 - 🤖 I’m currently working on Machine Learning, Deep Learning & Generative AI
-- 🧠 I’m looking to collaborate on AI/ML projects, NLP applications, and MLOps pipelines
-- 📊 Ask me about Python, TensorFlow, PyTorch, Hugging Face, LangChain, SQL, Power BI
-- LinkedIn: linkedin.com/in/lavkushverma
+- 🧠 I’m looking to collaborate on AI/ML projects, NLP applications and MLOps pipelines
+- 📊 Ask me about Python, TensorFlow, PyTorch, Hugging Face, LangChain, Power BI
+- LinkedIn: **https://www.linkedin.com/in/lavkush-verma-822268255/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
