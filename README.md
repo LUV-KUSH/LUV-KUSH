@@ -7,7 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luv-kush&label=Profile%20views&color=0e75b6&style=flat" alt="luv-kush" /> </p>
 
-- 📫You can contact me at **lkverma087@gmail.com**
+- 🎓 I’m currently a B.Tech student at IIT Delhi
+- 🤖 I’m currently working on Machine Learning, Deep Learning & Generative AI
+- 🧠 I’m looking to collaborate on AI/ML projects, NLP applications, and MLOps pipelines
+- 📊 Ask me about Python, TensorFlow, PyTorch, Hugging Face, LangChain, SQL, Power BI
+- LinkedIn: linkedin.com/in/lavkushverma
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
