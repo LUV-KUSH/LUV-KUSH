@@ -1,7 +1,7 @@
 <h1
    align="left">Hi 👋, I'm Lavkush Verma
 </h1>
-<h3 align="left">A Machine Learning & AI Enthusiast</h3>
+<h2 align="left">A Machine Learning & AI Enthusiast</h2>
 
 - 🎓 I’m currently a B.Tech student at IIT Delhi
 - 🤖 I’m currently working on Machine Learning, Deep Learning & Generative AI
