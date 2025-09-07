@@ -8,7 +8,6 @@
 - 🤖 I’m currently working on Machine Learning, Deep Learning & Generative AI
 - 🤝 I’m looking to collaborate on AI/ML, NLP and MLOps projects
 - 📊 Ask me about Python, TensorFlow, PyTorch, Hugging Face, LangChain, Power BI
-- 🔗 LinkedIn: **https://www.linkedin.com/in/lavkush-verma-822268255/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
